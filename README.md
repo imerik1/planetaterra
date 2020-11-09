@@ -9,7 +9,7 @@
       - Dentro dela uma div contendo a classe loader e um span vazio
       - e outra div contendo a classe terra
  
-### <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24" height="24"> CSS
+### <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24"> CSS
  - Primeiro importei a fonte Poppins do Google Font
  - Fiz o básico do CSS tirando padrões dos navegadores com o * (Utilizado para estilizar todos os elementos)
  - Em body utilizei display flex para concentrar todos os elementos na vertical da página
