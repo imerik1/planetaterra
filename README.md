@@ -1,4 +1,4 @@
-# PLANETA TERRA <img src="https://acegif.com/wp-content/uploads/Earth.gif" width="32px"> 
+# PLANETA TERRA <img src="https://3.bp.blogspot.com/-cs1j-_EhDzc/U_-4pVUSBZI/AAAAAAABFhM/mx9ZiHUL7lw/s1600/MUNDO%2BGIRANDO%2B01.gif" width="32px"> 
 ## UTLIZADO APENAS CSS E HTML
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24px"> HTML
