@@ -10,7 +10,7 @@
       - e outra div contendo a classe terra
  
 ### <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24px"> CSS
- - Primeiro importei a fonte Poppins do Google Font que pode ser <a href="https://fonts.google.com/specimen/Poppins">pego aqui</a>
+ - Primeiro importei a fonte Poppins do Google Font que pode ser <a href="https://fonts.google.com/specimen/Poppins" target="_blank">pego aqui</a>
  - Fiz o básico do CSS tirando padrões dos navegadores com o * (Utilizado para estilizar todos os elementos)
  - Em body utilizei display flex para concentrar todos os elementos na vertical da página
  - Na classe Container fiz o mesmo procedimento do body, apenas utilizei "width: min-content" para ocupar a largura minima do elemento e fazer assim um efeito legal de zoom
