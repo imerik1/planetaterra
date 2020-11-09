@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 body {
@@ -12,18 +13,13 @@ body {
     justify-content: center;
     align-items: center;
     max-height: 100vh;
-    overflow: hidden;
+    background-size: cover;
     background: url('https://veja.abril.com.br/wp-content/uploads/2018/12/milky-way-2695569_1920.jpg');
 }
 
-.planet {
-    display: flex;
-    flex-direction: column;
-
-}
-
-.container:hover {
+.terra:hover {
     transform: scale(1.2);
+
 }
 
 .planet h2 {
@@ -47,8 +43,10 @@ body {
 .planetTerra {
    background-color: rgba(0, 0, 0, 0.7);
    position: relative;
-   min-width: 100%;
-   min-height: 100%;
+   flex-direction: column; 
+   display: flex;
+   width: 100vw;
+   height: 100vh;
    justify-content: center;
    align-items: center;
 }
