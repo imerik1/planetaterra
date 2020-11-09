@@ -1,7 +1,7 @@
 # PLANETA TERRA
 ## UTLIZADO APENAS CSS E HTML
 
-### <img src="https://www.iconninja.com/files/593/806/539/play-youtube-icon.svg" width="24" height="24"> HTML
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24"> HTML
  - Foram utilizados:
   - Uma div contendo duas classes, planet e planetTerra
     - Um h2 para o titulo
