@@ -1,6 +1,7 @@
-## PLANETA TERRA
-### UTLIZADO APENAS CSS E HTML
-#### HTML
+# PLANETA TERRA
+## UTLIZADO APENAS CSS E HTML
+
+### <img src="https://www.iconninja.com/files/593/806/539/play-youtube-icon.svg" width="24" height="24"> HTML
  - Foram utilizados:
   - Uma div contendo duas classes, planet e planetTerra
     - Um h2 para o titulo
@@ -8,7 +9,7 @@
       - Dentro dela uma div contendo a classe loader e um span vazio
       - e outra div contendo a classe terra
  
-#### CSS
+### <img src="https://dmw.cuiaba.br/wp-content/uploads/2020/06/CSS.3.png" width="24" height="24"> CSS
  - Primeiro importei a fonte Poppins do Google Font
  - Fiz o básico do CSS tirando padrões dos navegadores com o * (Utilizado para estilizar todos os elementos)
  - Em body utilizei display flex para concentrar todos os elementos na vertical da página
