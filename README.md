@@ -17,4 +17,4 @@
  - Na classe terra utilizei o background url para buscar a imagem no diretório, determinar o tamanho da "Terra" e criar um efeito giratório com background-postion com keyframe
  
  
- - Ideia baseada no canal: https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
+## Ideia baseada no canal: https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
