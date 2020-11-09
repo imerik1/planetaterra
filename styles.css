@@ -12,6 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    max-height: 100vh;
     overflow: hidden;
     background: url('https://veja.abril.com.br/wp-content/uploads/2018/12/milky-way-2695569_1920.jpg');
 }
